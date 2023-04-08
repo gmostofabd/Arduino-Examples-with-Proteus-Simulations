@@ -1,0 +1,145 @@
+
+
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.header{
+  width: 960px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.shared_header{
+  width: 960px;
+  height: auto;
+  background-color: #000;
+}
+
+.shared_header ul li{
+  list-style: none;
+  display: inline-block;
+}
+
+.shared_header ul li a{
+  display: block;
+  padding: 20px 30px;
+  font-size: 15px;
+  font-weight: bold;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+
+}
+
+.shared_header ul li a:hover{
+  color: yellow;
+  background-color: red;
+}
+
+.shared_header ul li ul{
+  position: absolute;
+  background: #000;
+  left: -9999px;
+}
+
+.shared_header ul li:hover ul{
+  left: 0px;
+}
+
+.shared_header ul li ul li{
+  width: 200px;
+  border-bottom: white solid #fff;
+
+}
+
+.banner_cover{
+  width: 960px;
+  height: 50vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: yellowgreen;
+}
+
+.banner_text{
+  padding: 100px;
+  text-transform: uppercase;
+}
+.banner_text button{
+  font-size: 20px;
+  font-weight: bold;
+  padding: 20px;
+  border: 0;
+  background-color: #000;
+  color: #fff;
+  margin: 0 8px;
+}
+
+.about_section{
+  width: 960px;
+  height: auto;
+  background-color: rgb(232, 245, 248);
+  margin-top: 20px;
+}
+
+.title{
+  width: 180px;
+  height: auto;
+  margin: 0 auto;
+}
+
+.title h2{
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  border-bottom: 1px solid #fff;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.about_logo img{
+  width: 350px;
+  height: auto;
+  margin: 0 10px;
+  margin-bottom: 10px;
+  box-shadow: 0px 8px 10px 0px #000;
+}
+
+.about_text{
+  width: 530px;
+  height: auto;
+  padding: 0 20px;
+}
+
+.about_text h2{
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.about_text p{
+  font-size: 20px;
+  color: gray;
+  line-height: 22px;
+  text-align: justify;
+}
+
+.row{
+overflow: auto;
+padding-top: 10px;
+
+}
+
+
+.col{
+float: left;
+}
+
+
+
