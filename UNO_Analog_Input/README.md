@@ -1,7 +1,8 @@
 
 # Arduino Analog Reading
 	
-	Once if you simply undrstand what is analog and how to read them and process using Arduino, actually a wide range of sensor reading is same to work with them.
+	Once if you simply undrstand what is analog and how to read them and process using Arduino, 
+	actually a wide range of sensor reading is same to work with them.
 
 Here is a sample of LDR responsive Arduino circuit.
 
