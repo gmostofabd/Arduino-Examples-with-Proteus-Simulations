@@ -18,3 +18,10 @@ Some Arduino Sketches and Simulation files included here. Simulations are done o
 
 
 ![Uno_LDR_Basic](https://user-images.githubusercontent.com/78910261/230913449-d88285e6-c25b-4804-86eb-aac70005eee6.png)
+
+
+
+# Download Softwares from drive link
+
+<h3>Proteus 8.13 SP0</h3>
+  https://drive.google.com/file/d/18cTTMpS0hk9O-RKruYjcKUgoEYFAYkMT/view?usp=sharing
