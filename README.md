@@ -21,7 +21,7 @@ Some Arduino Sketches and Simulation files included here. Simulations are done o
 
 
 
-# Download Softwares from drive link
+# Download from drive links
 
-<h3>Proteus 8.13 SP0</h3>
+<h5>Proteus 8.13 SP0</h5>
   https://drive.google.com/file/d/18cTTMpS0hk9O-RKruYjcKUgoEYFAYkMT/view?usp=sharing
