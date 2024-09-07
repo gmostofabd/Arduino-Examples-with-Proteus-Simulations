@@ -1,4 +1,6 @@
 # Arduino-Proteus-Simulation
+![RTC Based Load Switch using Arduino Nano DS1307_3](https://github.com/user-attachments/assets/1d618c1e-5b7b-4cea-b60d-05d6db19d0cb)
+
 Some Arduino Sketches and Simulation files included here. Simulations are done over Proteus 8.13 so use the same version or above to get run these on your own PC.
 
 
