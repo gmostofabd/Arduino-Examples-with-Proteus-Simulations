@@ -1,7 +1,7 @@
----
+
 
 # Arduino Examples with Proteus Simulations
-
+---
 Welcome to this repository, which contains a collection of **Arduino projects** and **code examples**. All the files provided here have been **tested** and **simulated** using the Proteus simulation software. Additionally, this repository includes **Proteus libraries**, **footprints**, and **3D CAD models** for components where required, making it a comprehensive resource for anyone working with Arduino and Proteus.
 
 ![RTC Based Load Switch using Arduino Nano DS1307_3](https://github.com/user-attachments/assets/1d618c1e-5b7b-4cea-b60d-05d6db19d0cb)
