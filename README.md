@@ -170,5 +170,3 @@ Ensure that these resources are added to your respective software for optimal si
 ## Download Links
 
 For accessing the software and additional resources, use the following links:
-
-<a href="[https://drive.google.com/file/d/18cTTMpS0hk
