@@ -1,5 +1,8 @@
 # Arduino Examples with Proteus Simulations 🎛️
 
+![Arduino_in_Proteus_Thumbnails_5](https://github.com/user-attachments/assets/e0001433-2ad5-4420-9c42-6abb277bf74f)
+
+
 Welcome to this repository, a comprehensive collection of **Arduino Projects** that seamlessly combine **code** and **simulations**.  
 *Whether you're new to Arduino or looking for advanced simulations, this repository has you covered!*
 
