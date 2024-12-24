@@ -44,6 +44,40 @@ Each project folder includes **visual assets**, such as screenshots and BMP back
 
 ---
 
+
+
+
+
+## ⚗️ **Examples Gallery**
+
+More App Inventor Tutorials for Beginners
+
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/7b73c3000b685b3c736bbf678204362a1cc6dcc2/UNO%20DOT%20Matrix%20LED/UNO_8x8_LED_Matrix_1.0/UNO%208X8%20DOT%20Matrix%20LED%20Display.png">  Designers Interface |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/7b73c3000b685b3c736bbf678204362a1cc6dcc2/UNO_LCD/UNO_LCD_4XPB_Counter_1.0/UNO_LCD_PB_Counter.jpg"> App and QR Code | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_Windows.png?raw=true"> Pallets, View and Properties |
+
+
+<br/>
+<br/>
+
+<hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
+
+</br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
