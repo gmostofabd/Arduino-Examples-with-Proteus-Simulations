@@ -47,14 +47,15 @@ Each project folder includes **visual assets**, such as screenshots and BMP back
 
 
 
-
 ## ⚗️ **Examples Gallery**
 
 More App Inventor Tutorials for Beginners
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/7b73c3000b685b3c736bbf678204362a1cc6dcc2/UNO%20DOT%20Matrix%20LED/UNO_8x8_LED_Matrix_1.0/UNO%208X8%20DOT%20Matrix%20LED%20Display.png">  8X8 DOT Matrix LED |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/f56173eae1869ef1cceea2522f577191af1326b8/UNO_LCD/UNO_LCD_Serial_Monitor_1.0/UNO%20LCD%20Serial%20Monitor_1.0.jpg"> Use of Vertual Terminal | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/54aecaf4d6a59dd2a29f1f579c9946f0cf9eb08b/UNO_LCD/UNO_LCD_4XPB_Counter_1.0/UNO%20LCD%20Push%20ButtonCounter_1.0.jpg"> LCD and Push Buttons |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/e07857316e0c7fb1d0b1c759480bebb1760684c3/UNO_LCD/UNO%20LCD%202%20relay%20DC%20Motor%20Control/UNO%20%40%20Channel%20Relay%20with%20DC%20Motor_1.0.jpg"> LCD Relays, Motor and Push Buttons|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/7b73c3000b685b3c736bbf678204362a1cc6dcc2/UNO%20DOT%20Matrix%20LED/UNO_8x8_LED_Matrix_1.0/UNO%208X8%20DOT%20Matrix%20LED%20Display.png">  8X8 DOT Matrix LED |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/f56173eae1869ef1cceea2522f577191af1326b8/UNO_LCD/UNO_LCD_Serial_Monitor_1.0/UNO%20LCD%20Serial%20Monitor_1.0.jpg"> Use of Vertual Terminal | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/54aecaf4d6a59dd2a29f1f579c9946f0cf9eb08b/UNO_LCD/UNO_LCD_4XPB_Counter_1.0/UNO%20LCD%20Push%20ButtonCounter_1.0.jpg"> LCD and Push Buttons |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/e07857316e0c7fb1d0b1c759480bebb1760684c3/UNO_LCD/UNO%20LCD%202%20relay%20DC%20Motor%20Control/UNO%20%40%20Channel%20Relay%20with%20DC%20Motor_1.0.jpg"> LCD Relays, Motor and Push Buttons  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_esi1.png?raw=true"> Tutorial image |<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_ImageContent_intwer.png?raw=true"> Starting Screen |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/AppInventor_Banner_6b.png?raw=true"> Tutorial image 1  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/MIT%20App%20Inventor2%20Tutorials_1.jpg?raw=true"> Tutorial image 2 | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/App-Inventor-Examples/blob/bc6ce03a1b035361ec5d01bd53047b61538aa0b6/assets/images/MIT%20App%20Inventor2%20Tutorials_3.png?raw=true">Tutorial image 3 |
 
 
 <br/>
@@ -63,11 +64,6 @@ More App Inventor Tutorials for Beginners
 <hr style="border: none; height: 2px; background-color: #2E8B57; margin-top: 20px; margin-bottom: 20px; border-radius: 5px;">
 
 </br>
-
-
-
-
-
 
 
 
