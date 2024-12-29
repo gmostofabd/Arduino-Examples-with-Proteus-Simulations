@@ -90,10 +90,9 @@ More Arduino Examples for Beginners
 
 
 
-
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/cec13500a352a750d166d60f27c818bf6617f249/UNO%20DS18B20%20Sensor/UNO%20DS18B20%20Sensor%20LCD%201.0/Arduino%20DS18B20%20Sensor%20and%20LCD%201.0.jpg">  DS18B20 Sensor and LCD |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/cec13500a352a750d166d60f27c818bf6617f249/UNO%20DS18B20%20Sensor/UNO%20DS18B20%20Sensor%20Serial%201.0/Arduino_DS18B20_Serial_1.0.jpg"> DS18B20 Sensor Serial | <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/54aecaf4d6a59dd2a29f1f579c9946f0cf9eb08b/UNO_LCD/UNO_LCD_4XPB_Counter_1.0/UNO%20LCD%20Push%20ButtonCounter_1.0.jpg"> LCD and Push Buttons |
-
-
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/cec13500a352a750d166d60f27c818bf6617f249/UNO%20DS18B20%20Sensor/UNO%20DS18B20%20Sensor%20LCD%201.0/Arduino%20DS18B20%20Sensor%20and%20LCD%201.0.jpg">  DS18B20 Sensor and LCD |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://github.com/gmostofabd/Arduino-Examples-with-Proteus-Simulations/blob/cec13500a352a750d166d60f27c818bf6617f249/UNO%20DS18B20%20Sensor/UNO%20DS18B20%20Sensor%20Serial%201.0/Arduino_DS18B20_Serial_1.0.jpg"> DS18B20 Sensor Serial |
 
 
 
