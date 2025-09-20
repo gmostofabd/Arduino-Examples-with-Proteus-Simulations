@@ -1,0 +1,60 @@
+#include "AFMotor.h"
+
+
+
+// Define left & right motors
+AF_DCMotor motorLeft(1);   // Motor on M1
+AF_DCMotor motorRight(2);  // Motor on M2
+
+void setup() {
+  Serial.begin(9600);
+  Serial.println("=== L293D Motor Shield Test ===");
+
+  // Set motor speeds (0-255)
+  motorLeft.setSpeed(180);
+  motorRight.setSpeed(180);
+}
+
+void loop() {
+  // Forward
+  Serial.println("Moving Forward...");
+  motorLeft.run(FORWARD);
+  motorRight.run(FORWARD);
+  delay(2000);
+
+  // Backward
+  Serial.println("Moving Backward...");
+  motorLeft.run(BACKWARD);
+  motorRight.run(BACKWARD);
+  delay(2000);
+
+  // Left Turn
+  Serial.println("Turning Left...");
+  motorLeft.run(RELEASE);   // stop left motor
+  motorRight.run(FORWARD);  // right motor forward
+  delay(1500);
+
+  // Right Turn
+  Serial.println("Turning Right...");
+  motorLeft.run(FORWARD);   // left motor forward
+  motorRight.run(RELEASE);  // stop right motor
+  delay(1500);
+
+  // U-Turn (180° rotate in place)
+  Serial.println("U-Turn...");
+  motorLeft.run(FORWARD);
+  motorRight.run(BACKWARD);
+  delay(2000);
+
+  // Rotate 360° in place
+  Serial.println("Rotate 360 in Place...");
+  motorLeft.run(FORWARD);
+  motorRight.run(BACKWARD);
+  delay(4000);  // approx 2x U-turn
+
+  // Stop
+  Serial.println("Stopping...");
+  motorLeft.run(RELEASE);
+  motorRight.run(RELEASE);
+  delay(3000);
+}

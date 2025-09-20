@@ -1,0 +1,86 @@
+#include "AFMotor.h"
+
+
+#include <Servo.h>
+
+// === Motor Definitions ===
+AF_DCMotor motorLeft(1);   // M1
+AF_DCMotor motorRight(2);  // M2
+
+// === Servo Definitions ===
+Servo servo1;  // D9
+Servo servo2;  // D10
+
+void setup() {
+  Serial.begin(9600);
+  Serial.println("=== L293D Motor + Servo Test ===");
+
+  // Motor speeds
+  motorLeft.setSpeed(180);
+  motorRight.setSpeed(180);
+
+  // Attach servos
+  servo1.attach(9);
+  servo2.attach(10);
+
+  // Initial servo positions
+  servo1.write(90);  // middle
+  servo2.write(90);  // middle
+  delay(1000);
+}
+
+void loop() {
+  // --- Motor Movements ---
+  Serial.println("Moving Forward...");
+  motorLeft.run(FORWARD);
+  motorRight.run(FORWARD);
+  delay(2000);
+
+  Serial.println("Moving Backward...");
+  motorLeft.run(BACKWARD);
+  motorRight.run(BACKWARD);
+  delay(2000);
+
+  Serial.println("Turning Left...");
+  motorLeft.run(RELEASE);
+  motorRight.run(FORWARD);
+  delay(1500);
+
+  Serial.println("Turning Right...");
+  motorLeft.run(FORWARD);
+  motorRight.run(RELEASE);
+  delay(1500);
+
+  Serial.println("U-Turn...");
+  motorLeft.run(FORWARD);
+  motorRight.run(BACKWARD);
+  delay(2000);
+
+  Serial.println("Rotate 360 in Place...");
+  motorLeft.run(FORWARD);
+  motorRight.run(BACKWARD);
+  delay(4000);
+
+  Serial.println("Stopping Motors...");
+  motorLeft.run(RELEASE);
+  motorRight.run(RELEASE);
+  delay(1000);
+
+  // --- Servo Movements ---
+  Serial.println("Testing Servos: Sweep 0° -> 180° -> 0°");
+
+  for(int pos = 0; pos <= 180; pos += 5) {
+    servo1.write(pos);
+    servo2.write(180 - pos); // opposite direction
+    delay(50);
+  }
+
+  for(int pos = 180; pos >= 0; pos -= 5) {
+    servo1.write(pos);
+    servo2.write(180 - pos);
+    delay(50);
+  }
+
+  Serial.println("Servo Test Completed. Repeating in 3s...");
+  delay(3000);
+}

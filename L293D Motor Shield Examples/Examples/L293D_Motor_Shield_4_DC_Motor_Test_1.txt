@@ -1,0 +1,41 @@
+#include "AFMotor.h"
+
+// Create motor objects (M1–M4 are the shield’s outputs)
+AF_DCMotor motor1(1);  // M1
+AF_DCMotor motor2(2);  // M2
+AF_DCMotor motor3(3);  // M3
+AF_DCMotor motor4(4);  // M4
+
+void setup() {
+  Serial.begin(9600);
+  Serial.println("L293D Motor Shield Test");
+
+  // Set initial speed (0–255)
+  motor1.setSpeed(150);
+  motor2.setSpeed(150);
+  motor3.setSpeed(150);
+  motor4.setSpeed(150);
+}
+
+void loop() {
+  Serial.println("Motors Forward");
+  motor1.run(FORWARD);
+  motor2.run(FORWARD);
+  motor3.run(FORWARD);
+  motor4.run(FORWARD);
+  delay(2000);
+
+  Serial.println("Motors Backward");
+  motor1.run(BACKWARD);
+  motor2.run(BACKWARD);
+  motor3.run(BACKWARD);
+  motor4.run(BACKWARD);
+  delay(2000);
+
+  Serial.println("Motors Stop");
+  motor1.run(RELEASE);
+  motor2.run(RELEASE);
+  motor3.run(RELEASE);
+  motor4.run(RELEASE);
+  delay(2000);
+}
